@@ -12,7 +12,7 @@ Para clonar, você vai precisar ter o [Git](https://git-scm.com) instalado no se
 # Entre na pasta onde você deseja salvar o arquivo, por exemplo:
 cd E:/ExcelVBA/
 # Após, execute o comando git
-git clone https://github.com/pabloassisborges/projetos_one/entre-planilhas.git
+git clone https://github.com/pabloassisborges/entre-planilhas.git
 
 
 ```
